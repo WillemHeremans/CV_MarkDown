@@ -2,10 +2,8 @@
 
 
 Nom : Brieven       
-Prénom : Vadim       
-Adresse : Avenue du Castel 5, 1200 Bruxelles      
-Courrier électronique : vadim.brieven@gmail.com      
-Téléphone : 0471/601 691     
+Prénom : Vadim                 
+Téléphone : 0471/60 16 91     
 Date de naissance : 14 octobre 1993      
 Nationalité : Belge     
 Permis B depuis le 5 décembre 2011     
@@ -34,11 +32,6 @@ Juillet 2008 – Août 2008    Secrétaire d’accueil au Quartier Latin, centre
 * Néerlandais – parfaite maîtrise à l’écrit et à l’oral  
 * Anglais – notions (6 ans à l’école)  
 
-### INFORMATIQUE
-
-Bonne maîtrise des logiciels de bureautique (Microsoft Office) aussi bien sur Macintosh que sur Windows, ainsi qu’Internet Explorer.
-
 ### MOTIVATIONS - CENTRES D’INTERÊT
 
-Sur un plan personnel, je suis fiable, dynamique, souriant et méticuleux dans mon travail. J’ai un bon esprit d'équipe et un sens de la responsabilité. En raison de mon éducation multiculturelle à l'école européenne, j’ai acquis une certaine ouverture d’esprit et le contact facile avec les gens.
 Mes centres d’intérêt sont vastes allant de l’art (photographie, cinéma et musique) aux voyages, en passant par le sport et l’actualité internationale.
